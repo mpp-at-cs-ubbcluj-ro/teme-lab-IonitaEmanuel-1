@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/EvenNewerModule.iml" filepath="$PROJECT_DIR$/EvenNewerModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/EvenNewerModule.main.iml" filepath="$PROJECT_DIR$/.idea/modules/EvenNewerModule.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/EvenNewerModule.test.iml" filepath="$PROJECT_DIR$/.idea/modules/EvenNewerModule.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/ModulNou/ModulNou.iml" filepath="$PROJECT_DIR$/ModulNou/ModulNou.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/teme-lab-IonitaEmanuel-1.iml" filepath="$PROJECT_DIR$/.idea/teme-lab-IonitaEmanuel-1.iml" />
     </modules>
