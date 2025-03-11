@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/EvenEvenNewerModule.iml" filepath="$PROJECT_DIR$/EvenEvenNewerModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/EvenEvenNewerModule.main.iml" filepath="$PROJECT_DIR$/.idea/modules/EvenEvenNewerModule.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/EvenEvenNewerModule.test.iml" filepath="$PROJECT_DIR$/.idea/modules/EvenEvenNewerModule.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/EvenNewerModule.iml" filepath="$PROJECT_DIR$/EvenNewerModule.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/EvenNewerModule.main.iml" filepath="$PROJECT_DIR$/.idea/modules/EvenNewerModule.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/EvenNewerModule.test.iml" filepath="$PROJECT_DIR$/.idea/modules/EvenNewerModule.test.iml" />
