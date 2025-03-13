@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="EvenEvenNewerModule" target="21" />
+      <module name="EvenEvenNewerModule.main" target="21" />
+      <module name="EvenEvenNewerModule.test" target="21" />
+      <module name="EvenNewerModule" target="21" />
+      <module name="EvenNewerModule.main" target="21" />
+      <module name="EvenNewerModule.test" target="21" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
